@@ -1,0 +1,1 @@
+console.log("Hallo, Namaku adalah Rival Adrian Juliansyah");
